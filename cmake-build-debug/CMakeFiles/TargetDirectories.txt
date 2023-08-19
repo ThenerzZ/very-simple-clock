@@ -1,0 +1,3 @@
+/home/thenerz/CLionProjects/Uhr_1/cmake-build-debug/CMakeFiles/Uhr_1.dir
+/home/thenerz/CLionProjects/Uhr_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thenerz/CLionProjects/Uhr_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
