@@ -1,3 +1,3 @@
 # very-simple-clock
-on linux just double-click on the clock file 
+on linux just double-click on the clock file, 
 on windows it wont work unless you recompile it etc...
